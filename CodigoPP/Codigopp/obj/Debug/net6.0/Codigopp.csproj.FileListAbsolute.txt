@@ -1,0 +1,14 @@
+D:\Documentos\Semestre 8\Analisis de sistemas II\CodigoPP\Codigopp\bin\Debug\net6.0\Codigopp.exe
+D:\Documentos\Semestre 8\Analisis de sistemas II\CodigoPP\Codigopp\bin\Debug\net6.0\Codigopp.deps.json
+D:\Documentos\Semestre 8\Analisis de sistemas II\CodigoPP\Codigopp\bin\Debug\net6.0\Codigopp.runtimeconfig.json
+D:\Documentos\Semestre 8\Analisis de sistemas II\CodigoPP\Codigopp\bin\Debug\net6.0\Codigopp.dll
+D:\Documentos\Semestre 8\Analisis de sistemas II\CodigoPP\Codigopp\bin\Debug\net6.0\Codigopp.pdb
+D:\Documentos\Semestre 8\Analisis de sistemas II\CodigoPP\Codigopp\obj\Debug\net6.0\Codigopp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Semestre 8\Analisis de sistemas II\CodigoPP\Codigopp\obj\Debug\net6.0\Codigopp.AssemblyInfoInputs.cache
+D:\Documentos\Semestre 8\Analisis de sistemas II\CodigoPP\Codigopp\obj\Debug\net6.0\Codigopp.AssemblyInfo.cs
+D:\Documentos\Semestre 8\Analisis de sistemas II\CodigoPP\Codigopp\obj\Debug\net6.0\Codigopp.csproj.CoreCompileInputs.cache
+D:\Documentos\Semestre 8\Analisis de sistemas II\CodigoPP\Codigopp\obj\Debug\net6.0\Codigopp.dll
+D:\Documentos\Semestre 8\Analisis de sistemas II\CodigoPP\Codigopp\obj\Debug\net6.0\refint\Codigopp.dll
+D:\Documentos\Semestre 8\Analisis de sistemas II\CodigoPP\Codigopp\obj\Debug\net6.0\Codigopp.pdb
+D:\Documentos\Semestre 8\Analisis de sistemas II\CodigoPP\Codigopp\obj\Debug\net6.0\Codigopp.genruntimeconfig.cache
+D:\Documentos\Semestre 8\Analisis de sistemas II\CodigoPP\Codigopp\obj\Debug\net6.0\ref\Codigopp.dll
